@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 > Netnoease. [‘⚡’](https://github.com/netnoease).\
 > Are you tired after your labours? 
 
-🔗https:\\ Dry your tears and don't ask who I am.
+🔗 Dry your tears and don't ask who I am.
 
