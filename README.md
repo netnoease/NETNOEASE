@@ -20,15 +20,14 @@
 #### 🛠 Tech Stack
 
 <!-- 第一行：工业与自动化 -->
-**⚙️ Industrial & Automation**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**⚙️**
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-005386?style=flat-square&logo=solidworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-239120?style=flat-square&logo=autodesk&logoColor=white)
 ![PLC](https://img.shields.io/badge/-PLC-005386?style=flat-square&logo=siemens&logoColor=white)
 ![CNC](https://img.shields.io/badge/-CNC-000000?style=flat-square&logo=c&logoColor=white)
 
 <!-- 第二行：代码与开发 (Linux 放最前) -->
-**💻 Software & Development**
+**💻**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
