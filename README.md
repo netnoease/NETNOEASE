@@ -15,7 +15,7 @@
 
 - **🔭 Currently working on:** Building the future, one commit at a time.
 - **🌱 Currently learning:** Advanced Algorithms & System Design.
-- **💬 Ask me about:** Backend Architecture, Linux, and Life in Suzhou.
+- **💬 Ask me about:** Backend Architecture, Linux, and Life in Suzhou. That's it. Please do not attempt to contact me.
 
 #### 🛠 Tech Stack
 
