@@ -13,9 +13,9 @@
 
 #### 🚀 Active Projects
 
-- **🔭 Currently working on:** Building the future, one commit at a time.
-- **🌱 Currently learning:** Advanced Algorithms & System Design.
-- **💬 Ask me about:** Backend Architecture, Linux, and Life in Suzhou. That's it. Please do not attempt to contact me.
+- **🔭 Currently working on:** Researching Windows 98.
+- **🌱 Currently learning:** Reading *The Mythical Man-Month*.
+- **💬 Ask me about:** I'm in Suzhou, doing fine. Don't worry about me.
 
 #### 🛠 Tech Stack
 
