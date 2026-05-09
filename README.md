@@ -1,32 +1,40 @@
-<!-- 浅色模式：显示数据统计 -->
-<a href="https://github.com/netnoease#gh-light-mode-only">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=netnoease&show_icons=true&theme=light&hide_border=true&title_color=2c5282&text_color=2d3748&icon_color=2c5282" alt="Stats Light" />
-</a>
-
-<!-- 深色模式：显示禅意/代码意境图 (使用占位图，建议替换为你喜欢的代码截图) -->
-<a href="https://github.com/netnoease#gh-dark-mode-only">
-  <img align="right" src="https://placehold.co/400x200/1a202c/FFF?text=Code+Zen+Mode&font=roboto" alt="Stats Dark" />
+<a href="https://github.com/netnoease">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=netnoease&show_icons=true&theme=dark&hide_border=true" alt="Netnoease Stats" />
 </a>
 
 #### Hello 👏
 
-> Netnoease. [‘⚡’](https://github.com/netnoease).\
+> Netnoease. <‘⚡’>.\
 > Are you tired after your labours?
 
 🔗 Dry your tears and don't ask who I am.
 
 ---
 
-#### 📍 Current Status
+#### 🚀 Active Projects
 
-- **📅 Time:** May 2026 | Early Summer
-- **📍 Location:** Suzhou, China (Jiangnan)
-- **💻 Tech:** Coding in the rain, debugging in the sun.
-- **🍵 Mood:** Seeking logic in the chaos.
+- **🔭 Currently working on:** Building the future, one commit at a time.
+- **🌱 Currently learning:** Advanced Algorithms & System Design.
+- **💬 Ask me about:** Backend Architecture, Linux, and Life in Suzhou.
 
 #### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- 第一行：万物基础 Linux + 工业设计与自动化 -->
+**🐧 Infrastructure & CAD/CAM**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-0095B7?style=flat-square&logo=autocad&logoColor=white) <!-- 使用 AutoCAD 颜色作为替代 -->
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-00C5E2?style=flat-square&logo=autocad&logoColor=white)
+![PLC](https://img.shields.io/badge/-PLC-FF8C00?style=flat-square&labelColor=555&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAydjIwIi8+PHBhdGggZD0iTTE3IDE3djVNNyA3djVNNyAxN2g1Ii8+PC9zdmc+) <!-- 简单的齿轮 SVG -->
+![CNC](https://img.shields.io/badge/-CNC-4B0082?style=flat-square&labelColor=333&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDJWOm0wIDIwVjIiLz48L3N2Zz4=) <!-- 简单的圆形 SVG -->
+
+<!-- 第二行：后端与系统编程 -->
+**💻 Backend & Systems**
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<!-- 第三行：前端 -->
+**🌐 Frontend**
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
